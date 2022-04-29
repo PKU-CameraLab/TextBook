@@ -16,7 +16,7 @@ The scene comes from AI2-THOR dataset. https://ai2thor.allenai.org/.
 | input/normal.png                    | 16-bit三通道法线图，BGR三通道分别表示XYZ坐标的法线分量，分辨率1024x1024，[0,65535]线性映射为[-1.0,1.0] |
 | input/diffuse.png                   | 8-bit三通道漫反射率图，分辨率1024x1024，[0,255]线性映射为[0.0,1.0] |
 | input/specular.png                  | 8-bit三通道镜面射率图，分辨率1024x1024，[0,255]线性映射为[0.0,1.0] |
-| input/roughness.png                 | 8-bit单通道光滑度图，分辨率1024x1024，[0,255]线性映射为[0.0,100.0] |
+| input/shininess.png                 | 8-bit单通道光滑度图，分辨率1024x1024，[0,255]线性映射为[0.0,100.0] |
 | input/task1-\{0, 1, 2, 3\}.txt      | 任务一的输入数据，每个文件两行，每行6个空格分隔浮点数，表示每个光源的XYZ位置和RGB发光强度（X Y Z B G R），注意计算机中一般以BGR的三通道颜色顺序 |
 | output/task1-shading-diffuse-0.png  | 任务一的样例输出，便于调试代码                               |
 | output/task1-shading-specular-0.png | 任务一的样例输出，便于调试代码                               |
