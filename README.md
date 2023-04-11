@@ -18,7 +18,6 @@ LLFS修改版代码见`Assign2/LLFS`
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-3/CP_assignment_3.zip
 
-
 ------
 
 **平时作业 9** 超分辨率
@@ -28,3 +27,6 @@ LLFS修改版代码见`Assign2/LLFS`
 ------
 
 **平时作业 12** 图像反射消除
+
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-12/CP_assignment_12.zip
+
