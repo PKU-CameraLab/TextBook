@@ -38,7 +38,7 @@ LLFS修改版代码见`Assign2/LLFS`
 
 ------
 
-**平时作业 13** 图像恢复高级专题III
+**平时作业 13** 神经形态视觉
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-13/CP_assignment_13.zip
 
