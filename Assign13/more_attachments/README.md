@@ -5,7 +5,8 @@
 **补充数据说明**
 
 本目录中所包含的数据，皆为作者给出官方下载途径的链接内容（预训练参数、数据集），供不方便直接访问官方链接的同学下载使用，具体说明如下：
-- `E2VID`: 包含作者提供的预训练参数 `E2VID_lightweight.pth.tar` 和一组测试数据 `dynamic_6dof.zip` ；
-- `SCFlow`：包含作者提供的预训练参数 `model_deblur_best.pth`，以及测试数据集 PHM 的一部分；
+- `E2VID`: 包含作者提供的预训练参数 `E2VID_lightweight.pth.tar` ，以及作者提供的测试数据的一个子序列 `dynamic_6dof_part.zip` ；
+- `SCFlow`：包含作者提供的预训练参数 ，以及测试数据集 PHM 的一部分；
+    - `ckpt` 目录下包含 `dt10_e40.pth.tar`、 `dt20_e80.pth.tar` 两种配置下的预训练参数；
     - `phm_part` 目录下包含 PHM 数据集当中的三组测试场景（只需选择一组进行测试即可），每个场景中包含了完整数据序列的一个子序列；
 - `NEST`：包含作者提供的预训练参数 `model_deblur_best.pth` 和一组测试数据 `demo_input\`。
