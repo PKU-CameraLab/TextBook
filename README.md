@@ -32,7 +32,7 @@ LLFS修改版代码见`Chapter5/Assignment/LLFS`
 ------
 **第7章** 光度立体视觉
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-7/assignment.7.zip
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-7/CP_assignment.7.zip
 
 ------
 
