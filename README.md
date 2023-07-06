@@ -54,6 +54,12 @@ LLFS修改版代码见`Chapter5/Assignment/LLFS`
 
 ------
 
+**第11章** 图像去模糊
+
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-11/CP_assignment_11.zip
+
+------
+
 **第12章** 图像反射消除
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-12/CP_assignment_12.zip
