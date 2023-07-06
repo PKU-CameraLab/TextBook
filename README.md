@@ -13,7 +13,7 @@
 
 **第4章** 镜头与曝光
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/releases/tag/assignment-4
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-4/CP_assignment_4.zip
 
 ------
 
