@@ -7,7 +7,7 @@
 ------
 **第3章** 相机几何模型
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/tree/main/Assign3
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-3/CP_assignment.3.zip
 
 ------
 
