@@ -1,13 +1,19 @@
 # TextBook
 
-**第2章** 数字摄像流程
+**第2章** 数字摄像原理
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-1/CP_assignment_1.zip
 
 ------
-**第3章** 数字摄像流程
+**第3章** 相机几何模型
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/tree/main/Assign3
+
+------
+
+**第4章** 镜头与曝光
+
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/tag/assignment-4
 
 ------
 
