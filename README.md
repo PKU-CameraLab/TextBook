@@ -17,7 +17,7 @@
 
 ------
 
-**第5章** 光场和焦点堆栈
+**第5章** 焦点堆栈与光场摄像
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-5/CP_assignment_5.zip
 
@@ -25,7 +25,7 @@ LLFS修改版代码见`Chapter5/Assignment/LLFS`
 
 ------
 
-**第6章** 光照与反射率建模
+**第6章** 光度成像模型
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-6/CP_assignment_6.zip
 
@@ -48,25 +48,25 @@ LLFS修改版代码见`Chapter5/Assignment/LLFS`
 
 ------
 
-**第10章** 图像去模糊
+**第10章** 去模糊
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-10/CP_assignment_10.zip
 
 ------
 
-**第11章** 图像去模糊
+**第11章** 图像恢复高级专题I
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-11/CP_assignment_11.zip
 
 ------
 
-**第12章** 图像反射消除
+**第12章** 图像恢复高级专题II
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-12/CP_assignment_12.zip
 
 ------
 
-**第13章** 神经形态视觉
+**第13章** 图像恢复高级专题III
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-13/CP_assignment_13.zip
 
