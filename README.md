@@ -2,7 +2,7 @@
 
 **第2章** 数字摄像原理
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-1/CP_assignment_1.zip
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-2/CP_assignment_2.zip
 
 ------
 **第3章** 相机几何模型
@@ -19,7 +19,7 @@
 
 **第5章** 光场和焦点堆栈
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-5/CP_assignment_2.zip
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-5/CP_assignment_5.zip
 
 LLFS修改版代码见`Chapter5/Assignment/LLFS`
 
@@ -27,12 +27,12 @@ LLFS修改版代码见`Chapter5/Assignment/LLFS`
 
 **第6章** 光照与反射率建模
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-3/CP_assignment_3.zip
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-6/CP_assignment_6.zip
 
 ------
 **第7章** 光度立体视觉
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/releases/tag/assignment-7
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-7/assignment.7.zip
 
 ------
 
