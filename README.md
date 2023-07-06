@@ -30,6 +30,11 @@ LLFS修改版代码见`Chapter5/Assignment/LLFS`
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-3/CP_assignment_3.zip
 
 ------
+**第7章** 光度立体视觉
+
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/tag/assignment-7
+
+------
 
 **第8章** 高动态范围成像
 
