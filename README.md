@@ -21,8 +21,6 @@
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-5/CP_assignment_5.zip
 
-LLFS修改版代码见`Chapter5/Assignment/LLFS`
-
 ------
 
 **第6章** 光度成像模型
