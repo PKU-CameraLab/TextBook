@@ -10,7 +10,7 @@
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-2/CP_assignment_2.zip
 
-LLFS修改版代码见`Assign2/LLFS`
+LLFS修改版代码见`Chapter5/Assignment/LLFS`
 
 ------
 
