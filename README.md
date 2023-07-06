@@ -14,7 +14,7 @@ LLFS修改版代码见`Assign2/LLFS`
 
 ------
 
-**第x章** 光照与反射率建模
+**第6章** 光照与反射率建模
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-3/CP_assignment_3.zip
 
