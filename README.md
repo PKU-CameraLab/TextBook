@@ -20,6 +20,12 @@ LLFS修改版代码见`Chapter5/Assignment/LLFS`
 
 ------
 
+**第8章** 高动态范围成像
+
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-8/CP_assignment_8.zip
+
+------
+
 **第9章** 超分辨率
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-9/CP_assignment_9.zip
