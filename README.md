@@ -19,7 +19,7 @@
 
 **第5章** 光场和焦点堆栈
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-2/CP_assignment_2.zip
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-5/CP_assignment_2.zip
 
 LLFS修改版代码见`Chapter5/Assignment/LLFS`
 
