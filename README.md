@@ -5,6 +5,11 @@
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-1/CP_assignment_1.zip
 
 ------
+**第3章** 数字摄像流程
+
+`附件`：https://github.com/PKU-CameraLab/TextBook/tree/main/Assign3
+
+------
 
 **第5章** 光场和焦点堆栈
 
