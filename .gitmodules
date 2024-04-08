@@ -1,0 +1,9 @@
+[submodule "CP_assignment_11/archive/code_SfSNet-Caffe"]
+	path = CP_assignment_11/archive/code_SfSNet-Caffe
+	url = https://github.com/senguptaumd/SfSNet
+[submodule "CP_assignment_11/archive/code_SfSNet-Pytorch"]
+	path = CP_assignment_11/archive/code_SfSNet-Pytorch
+	url = https://github.com/Mannix1994/SfSNet-Pytorch
+[submodule "CP_assignment_11/archive/code_InverseRenderNet"]
+	path = CP_assignment_11/archive/code_InverseRenderNet
+	url = https://github.com/YeeU/InverseRenderNet

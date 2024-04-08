@@ -455,7 +455,8 @@ TSWLatexianTemp*
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -803,5 +804,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+.idea
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,latex,python,c,c++,visualstudiocode,pycharm,emacs,vim
 
