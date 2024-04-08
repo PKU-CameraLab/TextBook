@@ -11,3 +11,4 @@ code_SfSNet-Caffe  -  https://github.com/senguptaumd/SfSNet
 code_SfSNet-Pytorch  -  https://github.com/Mannix1994/SfSNet-Pytorch
 [task3.2]
 code_InverseRenderNet  -  https://github.com/YeeU/InverseRenderNet
+code_InverseRenderNet-irn_model.zip  -  https://drive.google.com/uc?export=download&id=1VKeByvprmWWXSig-7-fxfXs3KA-HG_-P
