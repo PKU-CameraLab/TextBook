@@ -52,19 +52,19 @@
 
 ------
 
-**第11章** 图像恢复高级专题I
+**第11章** 图像恢复高级专题I：图像本征分解
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-11/CP_assignment_11.zip
 
 ------
 
-**第12章** 图像恢复高级专题II
+**第12章** 图像恢复高级专题II：图像反射消除
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-12/CP_assignment_12.zip
 
 ------
 
-**第13章** 图像恢复高级专题III
+**第13章** 图像恢复高级专题III：神经形态视觉
 
 `附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-13/CP_assignment_13.zip
 
