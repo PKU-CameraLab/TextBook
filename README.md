@@ -30,7 +30,7 @@
 ------
 **第7章** 光度立体视觉
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-7/CP_assignment.7.zip
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-7/CP_assignment_7.zip
 
 ------
 
