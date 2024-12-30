@@ -54,7 +54,7 @@
 
 **第11章** 图像恢复高级专题I：图像本征分解
 
-`附件`：https://github.com/PKU-CameraLab/TextBook/releases/download/assignment-11/CP_assignment_11.zip
+`附件`：https://github.com/PKU-CameraLab/TextBook/releases/tag/assignment-11
 
 ------
 
